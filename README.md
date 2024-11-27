@@ -12,7 +12,3 @@
   <img alt="Vini-C" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">  
   <img alt="Vini-Cpp" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">   
 </div>
-
-##
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vinimibielli&bg_color=000000&color=82aaff&line=82aaff&point=82aaff&area=true&area_color=82aaff)](https://github.com/ashutosh00710/github-readme-activity-graph)
